@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Tiwari</h1>
 <h3 align="center">A passionate developer from India!!</h3>
 
-<img align-"right" alt="coding" width="300" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
+<img align-"right" alt="coding" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F3odR&psig=AOvVaw1FORdapUdzRW6-aIXxCzB_&ust=1703261562083000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjOsob2oIMDFQAAAAAdAAAAABAO">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekk0408&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekk0408" /> </p>
 
